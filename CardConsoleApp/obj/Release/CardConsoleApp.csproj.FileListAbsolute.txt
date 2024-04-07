@@ -1,0 +1,7 @@
+C:\Users\Kacey\source\repos\Personal\CardGame\CardConsoleApp\bin\Release\CardConsoleApp.exe.config
+C:\Users\Kacey\source\repos\Personal\CardGame\CardConsoleApp\bin\Release\CardConsoleApp.exe
+C:\Users\Kacey\source\repos\Personal\CardGame\CardConsoleApp\bin\Release\CardConsoleApp.pdb
+C:\Users\Kacey\source\repos\Personal\CardGame\CardConsoleApp\obj\Release\CardConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Kacey\source\repos\Personal\CardGame\CardConsoleApp\obj\Release\CardConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Kacey\source\repos\Personal\CardGame\CardConsoleApp\obj\Release\CardConsoleApp.exe
+C:\Users\Kacey\source\repos\Personal\CardGame\CardConsoleApp\obj\Release\CardConsoleApp.pdb
